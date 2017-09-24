@@ -1,4 +1,6 @@
 # ambyer updated on the local Git
+# ambyer uploaded on Sep. 2017
+# ambyer
 # 2017.06.09
 
 import theano
